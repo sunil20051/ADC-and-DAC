@@ -5,7 +5,7 @@ To design and simulate a Digital to Analog Converter (DAC) circuit using Proteus
 •	Proteus Design Suite<br>
 •	DAC IC (DAC0808)<br>
 •	Resistors<br>
-•	Operational Amplifier (e.g., µA741)<br>
+•	Operational Amplifier (e.g., µA741)<br>.
 •	Digital input switches<br>
 •	Power supply<br>
 ## Theory
